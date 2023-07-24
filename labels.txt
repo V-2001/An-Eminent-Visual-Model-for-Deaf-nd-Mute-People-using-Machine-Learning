@@ -1,0 +1,7 @@
+0 Call me
+1 Live long
+2 Me
+3 Thumbs up
+4 Thumbs down
+5 What
+6 All the best
